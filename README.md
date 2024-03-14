@@ -1,8 +1,8 @@
 # Edge Delivery Services - Summit 2024
 
 ## Environments
-- Preview: https://main--site-testing--s24l30.hlx.page/
-- Live: https://main--site-testing--s24l30.hlx.live/
+- Preview: https://main--site-testing--s24l430.hlx.page/
+- Live: https://main--site-testing--s24l430.hlx.live/
 - Custom Domain: https://site-testing.playground.name (Available during the lab)
 
 # Description
