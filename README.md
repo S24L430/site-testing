@@ -1,9 +1,9 @@
 # Edge Delivery Services - Summit 2024
 
 ## Environments
-- Preview: https://main--wknd--hlxsites.hlx.page/
-- Live: https://main--wknd--hlxsites.hlx.live/
-- Custom Domain: https://custom-domain.site (Available during the lab)
+- Preview: https://main--site-testing--s24l30.hlx.page/
+- Live: https://main--site-testing--s24l30.hlx.live/
+- Custom Domain: https://site-testing.playground.name (Available during the lab)
 
 # Description
 Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edge Delivery Services. Highlights include:
